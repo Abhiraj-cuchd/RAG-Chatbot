@@ -25,6 +25,6 @@ A Next.js application that creates an AI-powered chatbot from your PDF documents
 
 1. Clone the repository
 
-```bash
-git clone https://github.com/MUKE-coder/pdf-chat.git
+```bash[
+git clone https://github.com/Abhiraj-cuchd/RAG-Chatbot.git
 ```
